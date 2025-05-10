@@ -1,0 +1,682 @@
+{
+    "username": {
+      "value": "اسم المستخدم",
+      "type": "text"
+    },
+    "verify_phone": {
+      "value": "تحقق من رقم الهاتف",
+      "type": "text"
+    },
+    "mobile": {
+      "value": "قم الموبايل",
+      "type": "text"
+    },
+    "sms_sent": {
+      "value": "تم إرسال كود التفعيل إلى رقمك",
+      "type": "text"
+    },
+    "email": {
+      "value": " البريد الإلكتروني",
+      "type": "text"
+    },
+    "id_picture": {
+      "value": "صورة البطاقة الشخصية",
+      "type": "text"
+    },
+    "password": {
+      "value": "كلمة السر",
+      "type": "text"
+    },
+    "custodian": {
+      "value": "مقدم الرعاية",
+      "type": "text"
+    },
+    "patient": {
+      "value": "المريض",
+      "type": "text"
+    },
+    "sms_not_received": {
+      "value": "لم يصلك الكود؟ إعادة الإرسال (176 ثانية)",
+      "type": "text"
+    },
+    "terms": {
+      "value": " الشروط والأحكام",
+      "type": "text"
+    },
+    "retype_pass": {
+      "value": "تأكيد كلمة السر",
+      "type": "text"
+    },
+    "sign_up": {
+      "value": "تسجيل حساب جديد",
+      "type": "text"
+    },
+    "next": {
+      "value": "متابعة",
+      "type": "text"
+    },
+    "sign_in": {
+      "value": "تسجيل الدخول",
+      "type": "text"
+    },
+    "receipt": {
+      "value": "إيصال الدفع",
+      "type": "text"
+    },
+    "birth_date": {
+      "value": " تاريخ الميلاد",
+      "type": "text"
+    },
+    "total_amount": {
+      "value": "الإجمالي: 250 ج.م",
+      "type": "text"
+    },
+    "gender": {
+      "value": "النوع",
+      "type": "text"
+    },
+    "duration": {
+      "value": "المدة: 3 ساعات",
+      "type": "text"
+    },
+    "male": {
+      "value": "ذكر",
+      "type": "text"
+    },
+    "hourly_fees": {
+      "value": "سعر الساعة",
+      "type": "text"
+    },
+    "credit_200": {
+      "value": "رصيد: 200 ج.م",
+      "type": "text"
+    },
+    "service_type": {
+      "value": "نوع الخدمة",
+      "type": "text"
+    },
+    "debit_50": {
+      "value": "خصم: 50 ج.م",
+      "type": "text"
+    },
+    "nursing_service": {
+      "value": "تمريض منزلي",
+      "type": "text"
+    },
+    "companionship": {
+      "value": "مرافق",
+      "type": "text"
+    },
+    "done": {
+      "value": "تم",
+      "type": "text"
+    },
+    "review": {
+      "value": "مراجعة",
+      "type": "text"
+    },
+    "verification_pending": {
+      "value": "في انتظار المراجعة",
+      "type": "text"
+    },
+    "checkout": {
+      "value": "الدفع",
+      "type": "text"
+    },
+    "sign_up_as": {
+      "value": "سجل كـ...",
+      "type": "text"
+    },
+    "any_comment": {
+      "value": "أي ملاحظات؟",
+      "type": "text"
+    },
+    "account_verification": {
+      "value": "تفعيل الحساب",
+      "type": "text"
+    },
+    "cv": {
+      "value": "السيرة الذاتية",
+      "type": "text"
+    },
+    "do_you_have_complains": {
+      "value": "هل لديك أي شكاوى؟",
+      "type": "text"
+    },
+    "as_usual": {
+      "value": "كالمعتاد",
+      "type": "text"
+    },
+    "other": {
+      "value": "اخر",
+      "type": "text"
+    },
+    "graduation_certificate": {
+      "value": "شهادة التخرج",
+      "type": "text"
+    },
+    "choose_complain": {
+      "value": "اختر نوع الشكوى",
+      "type": "text"
+    },
+    "thank_you_registration": {
+      "value": "شكراً لتسجيلك، طلبك قيد المراجعة حالياً من قبل فريقنا، وسوف نرسل لك بريداً إلكترونياً عند التحقق",
+      "type": "text"
+    },
+    "cash": {
+      "value": "نقدي",
+      "type": "text"
+    },
+    "nurse": {
+      "value": "ممرضة",
+      "type": "text"
+    },
+    "nursing_license": {
+      "value": "رخصة التمريض",
+      "type": "text"
+    },
+    "credit_card": {
+      "value": "بطاقة ائتمان",
+      "type": "text"
+    },
+    "national_id_picture": {
+      "value": "صورة الرقم القومي",
+      "type": "text"
+    },
+    "success": {
+      "value": "نجاح",
+      "type": "text"
+    },
+    "clinics_and_hospitals": {
+      "value": "العيادات و المستشفيات",
+      "type": "text"
+    },
+    "pay": {
+      "value": "دفع",
+      "type": "text"
+    },
+    "order_details": {
+      "value": "تفاصيل الطلب:",
+      "type": "text"
+    },
+    "payment": {
+      "value": "طريقة الدفع",
+      "type": "text"
+    },
+    "nursing_wallet": {
+      "value": "محفظة التمريض",
+      "type": "text"
+    },
+    "client": {
+      "value": "عميل:",
+      "type": "text"
+    },
+    "add_payment_method": {
+      "value": "إضافة طريقة دفع",
+      "type": "text"
+    },
+    "order_history": {
+      "value": "سجل الطلبات",
+      "type": "text"
+    },
+    "add_patient": {
+      "value": "إضافة مريض",
+      "type": "text"
+    },
+    "nursing_services": {
+      "value": "خدمات التمريض",
+      "type": "text"
+    },
+    "care": {
+      "value": "رعاية",
+      "type": "text"
+    },
+    "on_spot_booking": {
+      "value": "حجز فوري",
+      "type": "text"
+    },
+    "home_nursing_care": {
+      "value": "رعاية تمريضية منزلية",
+      "type": "text"
+    },
+    "specialist_near_by": {
+      "value": "أخصائي بالقرب منك",
+      "type": "text"
+    },
+    "emergency_call": {
+      "value": "مكالمة طوارئ",
+      "type": "text"
+    },
+    "female": {
+      "value": "أنثى",
+      "type": "text"
+    },
+    "speciality": {
+      "value": "التخصص",
+      "type": "text"
+    },
+    "kidney_failure": {
+      "value": "فشل كلوي",
+      "type": "text"
+    },
+    "vacancies": {
+      "value": "وظائف شاغرة",
+      "type": "text"
+    },
+    "nurse_specialized_kidney_failure": {
+      "value": "ممرضة متخصصة في فشل الكلى",
+      "type": "text"
+    },
+    "invoice": {
+      "value": "#الفاتورة: 6545",
+      "type": "text"
+    },
+    "salary": {
+      "value": "الراتب",
+      "type": "text"
+    },
+    "credit": {
+      "value": "رصيد",
+      "type": "text"
+    },
+    "debit": {
+      "value": "خصم",
+      "type": "text"
+    },
+    "payment_status": {
+      "value": " الفاتورة غير مدفوعة",
+      "type": "text"
+    },
+    "completed_orders": {
+      "value": "الطلبات المكتملة",
+      "type": "text"
+    },
+    "timer": {
+      "value": "مؤقت",
+      "type": "text"
+    },
+    "nursing_timer": {
+      "value": "مؤقت التمريض",
+      "type": "text"
+    },
+    "home": {
+      "value": "الرئيسية",
+      "type": "text"
+    },
+    "profile": {
+      "value": "الملف الشخصي",
+      "type": "text"
+    },
+    "history": {
+      "value": "السجل",
+      "type": "text"
+    },
+    "age": {
+      "value": "العمر",
+      "type": "text"
+    },
+    "invoices": {
+      "value": "الفواتير",
+      "type": "text"
+    },
+    "alzheimers": {
+      "value": "ألزهايمر",
+      "type": "text"
+    },
+    "help_contact_us": {
+      "value": "المساعدة و الاتصال بنا",
+      "type": "text"
+    },
+    "description": {
+      "value": "الوصف",
+      "type": "text"
+    },
+    "open_patient_profile": {
+      "value": "فتح ملف المريض",
+      "type": "text"
+    },
+    "log_out": {
+      "value": "تسجيل الخروج",
+      "type": "text"
+    },
+    "finished": {
+      "value": "انتهى",
+      "type": "text"
+    },
+    "expected_arrival_time": {
+      "value": "الوقت المتوقع للوصول: 30 دقيقة",
+      "type": "text"
+    },
+    "call_nurse": {
+      "value": "اتصل بالممرضة",
+      "type": "text"
+    },
+    "order_nursing_services": {
+      "value": "طلب خدمات تمريض",
+      "type": "text"
+    },
+    "cash_payment": {
+      "value": "دفع نقدي",
+      "type": "text"
+    },
+    "schedule_time": {
+      "value": "تحديد الموعد",
+      "type": "text"
+    },
+    "appointment_date": {
+      "value": "تاريخ الموعد",
+      "type": "text"
+    },
+    "appointment_time": {
+      "value": "موعد الحجز",
+      "type": "text"
+    },
+    "confirm": {
+      "value": "تأكيد",
+      "type": "text"
+    },
+    "illness_type": {
+      "value": "نوع المرض",
+      "type": "text"
+    },
+    "hourly_order": {
+      "value": "طلب بالساعة",
+      "type": "text"
+    },
+    "specific_services": {
+      "value": "خدمات محددة",
+      "type": "text"
+    },
+    "location": {
+      "value": "الموقع",
+      "type": "text"
+    },
+    "current_location": {
+      "value": "الموقع الحالي",
+      "type": "text"
+    },
+    "additional_information": {
+      "value": "معلومات إضافية",
+      "type": "text"
+    },
+    "any_comment _for_nursy?": {
+      "value": "ملاحظات لنرسي؟",
+      "type": "text"
+    },
+    "title": {
+      "value": "العنوان",
+      "type": "text"
+    },
+    "Success_subtitle": {
+      "value": " تم الدفع والحجز بنجاح. شكرًا لاختيارك نرسي",
+      "type": "text"
+    },
+    "nursey_wallet": {
+      "value": "محفظة نرسي",
+      "type": "text"
+    },
+    "zero": {
+      "value": "0.0 ج.م",
+      "type": "text"
+    },
+    "default_payment": {
+      "value": "طريقة الدفع الافتراضية",
+      "type": "text"
+    },
+    "promotion": {
+      "value": "كود خصم",
+      "type": "text"
+    },
+    "add_promo_code": {
+      "value": "إضافة كود خصم",
+      "type": "text"
+    },
+    "m_a": {
+      "value": "م.أ",
+      "type": "text"
+    },
+    "ex_gmail": {
+      "value": "huda.anwar94@gmail.com",
+      "type": "text"
+    },
+    "phone_number": {
+      "value": "رقم الهاتف",
+      "type": "text"
+    },
+    "ex_phone": {
+      "value": "+201002816543",
+      "type": "text"
+    },
+    "there_patients": {
+      "value": "لا يوجد مرضى",
+      "type": "text"
+    },
+    "order_#": {
+      "value": "الطلب:",
+      "type": "text"
+    },
+    "ex_id1": {
+      "value": " id1",
+      "type": "text"
+    },
+    "date": {
+      "value": " التاريخ:",
+      "type": "text"
+    },
+    "ex_12may2021": {
+      "value": "12 مايو 2021",
+      "type": "text"
+    },
+    "time": {
+      "value": "الوقت:",
+      "type": "text"
+    },
+    "ex_time": {
+      "value": "3:00 م",
+      "type": "text"
+    },
+    "order_type": {
+      "value": "نوع الطلب:",
+      "type": "text"
+    },
+    "service_1": {
+      "value": "الخدمة 1",
+      "type": "text"
+    },
+    "more_details": {
+      "value": "تفاصيل إضافية:",
+      "type": "text"
+    },
+    "ex_user_name": {
+      "value": "Mohammed Ali",
+      "type": "text"
+    },
+    "dura_tion": {
+      "value": "المدة:",
+      "type": "text"
+    },
+    "ex_3hours": {
+      "value": "3 ساعات",
+      "type": "text"
+    },
+    "Total_amont": {
+      "value": "المبلغ الإجمالي:",
+      "type": "text"
+    },
+    "ex_total_amont": {
+      "value": " 250 ج.م",
+      "type": "text"
+    },
+    "domain": {
+      "value": "المجال",
+      "type": "text"
+    },
+    "special_illness": {
+      "value": "مرض خاص",
+      "type": "text"
+    },
+    "ex_birth date": {
+      "value": "30/04/1994",
+      "type": "text"
+    },
+    "ex_gender": {
+      "value": "أنثى",
+      "type": "text"
+    },
+    "normal": {
+      "value": "عادي",
+      "type": "text"
+    },
+    "ex_user_name_3": {
+      "value": "Huda Anwar",
+      "type": "text"
+    },
+    "booking": {
+      "value": " الحجز",
+      "type": "text"
+    },
+    "ex_25_feb": {
+      "value": "25 فبراير، 3:00 م",
+      "type": "text"
+    },
+    "kidney_clinic": {
+      "value": "عيادة الكلى",
+      "type": "text"
+    },
+    "full_time": {
+      "value": "دوام كامل",
+      "type": "text"
+    },
+    "contacts": {
+      "value": "للتواصل:",
+      "type": "text"
+    },
+    "ex_salary": {
+      "value": "2500 ج.م",
+      "type": "text"
+    },
+    "ex_250": {
+      "value": "250 ج.م",
+      "type": "text"
+    },
+    "ex_84": {
+      "value": "84 ج.م",
+      "type": "text"
+    },
+    "ex_50": {
+      "value": "50 ج.م",
+      "type": "text"
+    },
+    "the_invoice": {
+      "value": "الفاتورة غير مدفوعة",
+      "type": "text"
+    },
+    "ex_150": {
+      "value": "150 ج.م",
+      "type": "text"
+    },
+    "ex_1500": {
+      "value": "1500 ج.م",
+      "type": "text"
+    },
+    "our_money": {
+      "value": "أموالنا",
+      "type": "text"
+    },
+    "your_money": {
+      "value": "أموالك",
+      "type": "text"
+    },
+    "ex_20": {
+      "value": "20",
+      "type": "text"
+    },
+    "ex_timer": {
+      "value": " 00:00:07",
+      "type": "text"
+    },
+    "accounts": {
+      "value": "الحسابات",
+      "type": "text"
+    },
+    "scheduled_oeders": {
+      "value": "الطلبات المجدولة",
+      "type": "text"
+    },
+    "dashborard": {
+      "value": "لوحة التحكم",
+      "type": "text"
+    },
+    "ex_age": {
+      "value": "50",
+      "type": "text"
+    },
+    "ex_description": {
+      "value": "مرض الزهايمر هو اضطراب عصبي تدريجي يؤثر على الذاكرة والتفكير والسلوك. يبدأ عادة بفقدان الذاكرة، مثل نسيان الأحداث الأخيرة أو الأسماء. مع تقدم الحالة، قد يواجه المريض صعوبة في الأنشطة اليومية مثل الأكل وارتداء الملابس. يرتبط الزهايمر بتغيرات في الدماغ مثل تراكم اللويحات البروتينية التي تعيق خلايا الدماغ.\",",
+      "type": "text"
+    },
+    "on_spot": {
+      "value": "فوري",
+      "type": "text"
+    },
+    "ant_special_illness?": {
+      "value": "هل يوجد مرض خاص؟",
+      "type": "text"
+    },
+    "ex_appointmentdate": {
+      "value": "12:00",
+      "type": "text"
+    },
+    "ex_appointament date": {
+      "value": "09/09/2021",
+      "type": "text"
+    },
+    "llenss_type": {
+      "value": "نوع المرض",
+      "type": "text"
+    },
+    "do_you_have_patient": {
+      "value": "هل لديك بيانات المريض؟",
+      "type": "text"
+    },
+    "no": {
+      "value": "لا",
+      "type": "text"
+    },
+    "yes": {
+      "value": "نعم",
+      "type": "text"
+    },
+    "companionship_cost": {
+      "value": "تكلفة خدمات الصحبة",
+      "type": "text"
+    },
+    "ex_companionship_cost": {
+      "value": "1260 ج.م",
+      "type": "text"
+    },
+    "note": {
+      "value": "*ملاحظة: يبدأ حساب الساعة من وقت وصول الممرض\"",
+      "type": "text"
+    },
+    "proceed": {
+      "value": "متابعة",
+      "type": "text"
+    },
+    "payment_method": {
+      "value": "طريقة الدفع",
+      "type": "text"
+    },
+    "the_cost_per_hour": {
+      "value": "التكلفة لكل ساعة",
+      "type": "text"
+    },
+    "ex_the_cost_per_hour": {
+      "value": "60 ج.م",
+      "type": "text"
+    },
+    "have_payment ?": {
+      "value": "هل استلمت الدفع؟",
+      "type": "text"
+    }
+  }

@@ -1,4 +1,8 @@
-import 'package:app/toknes.dart';
+import 'package:app/Toknes/app_color.dart';
+import 'package:app/Toknes/app_font_family.dart';
+import 'package:app/Toknes/app_font_size.dart';
+import 'package:app/Toknes/app_font_weight.dart';
+import 'package:app/styel.dart';
 import 'package:flutter/material.dart';
 
 class SplashScreen extends StatelessWidget {
@@ -7,14 +11,15 @@ class SplashScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Toknes.background,
-      body: Center(
-        child: Image.asset(
-          Toknes.logo,
-          width: Toknes.logoW,
-          height: Toknes.logoH,
-        ),
-      ),
-    );
+        backgroundColor: Toknes.primary,
+        body: Center(
+            child: Text(
+          'ss',
+          style: TextStyle(
+            color: AppColor.blue30 ,
+            fontSize: AppFontSize.fontSize14,
+              fontFamily: AppFontFamily.fontFamilyRoboto,
+              fontWeight: AppFontWeight.fontWeightBold),
+        )));
   }
 }
